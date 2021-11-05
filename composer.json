@@ -1,0 +1,19 @@
+{
+    "name": "king/hello",
+    "description": "this is a test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "King\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "King Koer",
+            "email": "2015933188@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
