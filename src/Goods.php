@@ -8,6 +8,10 @@ class Goods {
 		return "the product price is $99.00";
 	}
 
+	public function sum() {
+		return "the product sum is 9999";
+	}
+
 }
 
 ?>
