@@ -1,11 +1,11 @@
 {
-    "name": "kingkoer/hello",
-    "description": "this is a test package",
+    "name": "kingkoer/repo",
+    "description": "this is a new repo by myself",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Kingkoer\\Hello\\": "src/"
+            "Kingkoer\\Repo\\": "src/"
         }
     },
     "authors": [
