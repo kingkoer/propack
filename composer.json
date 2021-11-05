@@ -1,11 +1,11 @@
 {
-    "name": "king/hello",
+    "name": "kingkoer/hello",
     "description": "this is a test package",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "King\\Hello\\": "src/"
+            "Kingkoer\\Hello\\": "src/"
         }
     },
     "authors": [
